@@ -33,3 +33,16 @@ I'm a 17-year-old student from Italy exploring the world of programming. I'm cur
   <img src="https://streak-stats.demolab.com?user=icomakcore&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
+<h3 align="center">Connect with Me</h3>
+
+<p align="center">
+  <!-- Discord -->
+  <a href="https://discord.com/users/790204007338868756" target="_blank" style="text-decoration: none; outline: none; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40"/>
+  </a>
+
+
+
+
+
+
