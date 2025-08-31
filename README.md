@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=icomakcore&label=Profile%20Views&color=6f42c1&style=for-the-badge" />
 </p>
 
-I'm a 17-year-old student from Italy exploring the world of programming. I'm currently learning JavaScript, Java, HTML, and CSS as I prepare for a future in software engineering.
+I'm a 18-year-old student from Italy exploring the world of programming. I'm currently learning JavaScript, Java, HTML, and CSS as I prepare for a future in software engineering.
 
 
 
